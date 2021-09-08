@@ -1,8 +1,6 @@
 ### JDYJ 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jdyj)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdyj%2Fhit-counter&count_bg=%238AB2A8&title_bg=%23555555&icon=nextdoor.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ### Stack
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
